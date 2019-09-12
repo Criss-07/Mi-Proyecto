@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 public class AbmCategoria 
 {
-
+//COMENTO MI PRIMER CAMBIOO
     private String Nom;
     private String ConsultaSql = "SELECT * FROM categoria;";     
     private String AltaSql = "INSERT INTO categoria (NomCat) VALUES (?);";
